@@ -1,5 +1,5 @@
 # Digital_Communications_Modulation_Schemes
-This project's purpose is to simulate different modulation schemes of single carrier 
+This project's purpose is to simulate different modulation schemes of single-carrier Digital 
 communication systems.
 ## Single carrier system diagram
 
